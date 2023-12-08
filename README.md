@@ -14,9 +14,9 @@
 
 ## Projects
 
-### 1. [Project One](link-to-project1)
+### 1. [Blood Donation Website](https://blood-donres.web.app/)
 
-Brief description of Project One. Include key features and technologies used.
+A platform to connect blood donors with recipients. Users can register, search for donors, and request blood. The website is built using React.js for the frontend and Node.js with Express.js for the backend. MongoDB is used for data storage.
 
 ### 2. [Project Two](link-to-project2)
 
