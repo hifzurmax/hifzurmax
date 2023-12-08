@@ -1,10 +1,7 @@
-# Hi there 👋, I'm Hifzur - A Junior Web Developer from Sylhet, Bangladesh
 
 ![Profile Banner](https://media.licdn.com/dms/image/C5616AQFNvSJokZIugQ/profile-displaybackgroundimage-shrink_350_1400/0/1601365925495?e=1707350400&v=beta&t=FGsuJA1YZjxuBtFTJSTjZxd6m0y6cypXwF9Bz6SF5aM)
 
-🚀 Passionate about crafting seamless user experiences with React and building robust backends with Node.js. Let's code something amazing together! 💻
-
-## Skills
+## Technologies that I know
 
 - MongoDB / Express.js / React.js / Node.js / TAILWIND / HTML / CSS
 
@@ -31,7 +28,5 @@ An e-commerce website with six types of brands. Users can view products from dif
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/hifzurmax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/hifzurmax/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/hifzurmax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/hifzurmax/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/8251108)  
 
 ## GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hifzurmax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=hifzurmax)
