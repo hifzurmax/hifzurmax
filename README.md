@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Hifzur - A Junior Web Developer from Sylhet, Bangladesh
 
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
   ![Profile Banner](https://media.licdn.com/dms/image/C5616AQFNvSJokZIugQ/profile-displaybackgroundimage-shrink_350_1400/0/1601365925495?e=1707350400&v=beta&t=FGsuJA1YZjxuBtFTJSTjZxd6m0y6cypXwF9Bz6SF5aM)
 
   🚀 Passionate about crafting seamless user experiences with React and building robust backends with Node.js. Let's code something amazing together! 💻
@@ -33,9 +32,7 @@
 
   ## GitHub Stats
 
-  <div style="display: flex; justify-content: space-between; width: 100%;">
     [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hifzurmax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
     ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=hifzurmax)
-  </div>
-</div>
+
