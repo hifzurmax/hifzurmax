@@ -27,8 +27,6 @@
 	</table>
 </div>
 
-- MongoDB / Express.js / React.js / Node.js / TAILWIND / HTML / CSS
-
 ## Current Project
 
 🔭 I’m currently working on improving this page and contributing to open source projects.
