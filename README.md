@@ -32,6 +32,10 @@ Brief description of Project Three. Include key features and technologies used.
 
 ## GitHub Stats
 
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hifzurmax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=hifzurmax)
+</div>
+
+
