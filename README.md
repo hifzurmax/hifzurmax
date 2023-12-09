@@ -51,12 +51,13 @@ An e-commerce website with six types of brands. Users can view products from dif
 ## GitHub Stats
 
 
-<div style="display: flex; justify-content: space-between; margin: 20px;">
-  <div style="flex: 1;">
-    <p style="text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hifzurmax&show_icons=true&locale=en" alt="hifzurmax" /></p>
-  </div>
-  <div style="flex: 1;">
-    <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hifzurmax&" alt="hifzurmax" /></p>
-  </div>
+<div style="display: flex; justify-content: space-between; margin: 20px; text-align: center;">
+  <svg height="195" width="48%">
+    <image href="https://github-readme-stats.vercel.app/api?username=hifzurmax&show_icons=true&locale=en" />
+  </svg>
+  <svg height="195" width="48%">
+    <image href="https://github-readme-streak-stats.herokuapp.com/?user=hifzurmax" />
+  </svg>
 </div>
+
 
