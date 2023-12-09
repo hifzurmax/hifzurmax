@@ -51,4 +51,9 @@ An e-commerce website with six types of brands. Users can view products from dif
 
 ## GitHub Stats
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=hifzurmax)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hifzurmax&show_icons=true&locale=en&layout=compact" alt="hifzurmax" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hifzurmax&show_icons=true&locale=en" alt="hifzurmax" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hifzurmax&" alt="hifzurmax" /></p>
+
