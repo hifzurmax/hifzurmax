@@ -1,5 +1,5 @@
 
-![Header](https://i.ibb.co/fXjG4P7/github-header-image-2.png)
+![Header](https://i.ibb.co/ctxVSzd/image.jpg)
 ## Technologies that I know
 <div align="center">
 	<table>
